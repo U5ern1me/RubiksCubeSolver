@@ -24,6 +24,5 @@ add_executable(RubiksCubeSolver main.cpp
         PatternDatabases/math.cpp
         PatternDatabases/math.h
         PatternDatabases/PermutationIndexer.h
-        Model/PatternDatabase/PatternDatabase.h
 
 )
